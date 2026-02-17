@@ -1,6 +1,6 @@
 ﻿//Nombre de los integrantes: 
 //Luis Paulo Espinoza Sandoval - 1202925
-//Cristopher Abdul De la Cruz Galvez - 1064625
+//Cristopher Abdel De la Cruz Galvez - 1064625
 //Ruben Dario Paredes Flores - 1152225
 
 using System;
